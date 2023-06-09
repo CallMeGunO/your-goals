@@ -1,6 +1,6 @@
 # Your Goals
 
-> Minimalistic task tracker
+> My bachelor's graduation work
 
 ## Description:
 
