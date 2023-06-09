@@ -1,0 +1,7 @@
+.input-container {
+    width: 160px;
+    min-height: 30px;
+    background-color: #d5dfde;
+    border: 3px solid #1d5252;
+    margin: 5px;
+}
